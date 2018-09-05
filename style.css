@@ -157,6 +157,10 @@ span {
 .chevron-left, .chevron-right{
   display: none;
 }
+  
+h3 {
+  color: black;
+}
 
 
 
